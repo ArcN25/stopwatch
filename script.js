@@ -1,6 +1,6 @@
 
 const App = () => {
-    //cant use const because the value(timer) cant changing XDD
+    //TODO
     let tens = 00;
     let seconds = 00;
     let minutes = 00;
